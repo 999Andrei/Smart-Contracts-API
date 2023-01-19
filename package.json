@@ -1,0 +1,15 @@
+{
+  "name": "sandbox-smart-contracts-api",
+  "version": "1.0.0",
+  "description": "The Sandbox junior backend tech challenge to develop a smart contract api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marius-Andrei Camen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.0.1"
+  }
+}
